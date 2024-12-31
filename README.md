@@ -1,7 +1,7 @@
 # Normal-Hover-Effect-HTML-CSS
 
-Live Preview
-https://mefoyshal.github.io/Normal-Hover-Effect-HTML-CSS/
+
+Live Preview https://mefoyshal.github.io/Normal-Hover-Effect-HTML-CSS/
 
  I'ts a normal Hover Effect by using HTML & CSS
  
